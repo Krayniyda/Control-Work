@@ -26,7 +26,7 @@ int SazeNewArray (string[] arr)// подсчет размера выходног
 
 }
 
-string[] FillArray (string[] arrayIn, string[] arrayOut) 
+string[] FillArray (string[] arrayIn, string[] arrayOut)// заполнение нового массива (по блок -схеме)
 {
     int arraySize = arrayIn.Length;
     int i = 0;
