@@ -1,0 +1,45 @@
+D:\seminar1\Tasks1\bin\Debug\net6.0\Tasks1.exe
+D:\seminar1\Tasks1\bin\Debug\net6.0\Tasks1.deps.json
+D:\seminar1\Tasks1\bin\Debug\net6.0\Tasks1.runtimeconfig.json
+D:\seminar1\Tasks1\bin\Debug\net6.0\Tasks1.dll
+D:\seminar1\Tasks1\bin\Debug\net6.0\Tasks1.pdb
+D:\seminar1\Tasks1\obj\Debug\net6.0\Tasks1.csproj.AssemblyReference.cache
+D:\seminar1\Tasks1\obj\Debug\net6.0\Tasks1.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminar1\Tasks1\obj\Debug\net6.0\Tasks1.AssemblyInfoInputs.cache
+D:\seminar1\Tasks1\obj\Debug\net6.0\Tasks1.AssemblyInfo.cs
+D:\seminar1\Tasks1\obj\Debug\net6.0\Tasks1.csproj.CoreCompileInputs.cache
+D:\seminar1\Tasks1\obj\Debug\net6.0\Tasks1.dll
+D:\seminar1\Tasks1\obj\Debug\net6.0\refint\Tasks1.dll
+D:\seminar1\Tasks1\obj\Debug\net6.0\Tasks1.pdb
+D:\seminar1\Tasks1\obj\Debug\net6.0\Tasks1.genruntimeconfig.cache
+D:\seminar1\Tasks1\obj\Debug\net6.0\ref\Tasks1.dll
+F:\Control Work\bin\Debug\net6.0\Tasks1.exe
+F:\Control Work\bin\Debug\net6.0\Tasks1.deps.json
+F:\Control Work\bin\Debug\net6.0\Tasks1.runtimeconfig.json
+F:\Control Work\bin\Debug\net6.0\Tasks1.dll
+F:\Control Work\bin\Debug\net6.0\Tasks1.pdb
+F:\Control Work\obj\Debug\net6.0\Tasks1.csproj.AssemblyReference.cache
+F:\Control Work\obj\Debug\net6.0\Tasks1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Control Work\obj\Debug\net6.0\Tasks1.AssemblyInfoInputs.cache
+F:\Control Work\obj\Debug\net6.0\Tasks1.AssemblyInfo.cs
+F:\Control Work\obj\Debug\net6.0\Tasks1.csproj.CoreCompileInputs.cache
+F:\Control Work\obj\Debug\net6.0\Tasks1.dll
+F:\Control Work\obj\Debug\net6.0\refint\Tasks1.dll
+F:\Control Work\obj\Debug\net6.0\Tasks1.pdb
+F:\Control Work\obj\Debug\net6.0\Tasks1.genruntimeconfig.cache
+F:\Control Work\obj\Debug\net6.0\ref\Tasks1.dll
+F:\Control Work1 - Copy\bin\Debug\net6.0\Tasks1.exe
+F:\Control Work1 - Copy\bin\Debug\net6.0\Tasks1.deps.json
+F:\Control Work1 - Copy\bin\Debug\net6.0\Tasks1.runtimeconfig.json
+F:\Control Work1 - Copy\bin\Debug\net6.0\Tasks1.dll
+F:\Control Work1 - Copy\bin\Debug\net6.0\Tasks1.pdb
+F:\Control Work1 - Copy\obj\Debug\net6.0\Tasks1.csproj.AssemblyReference.cache
+F:\Control Work1 - Copy\obj\Debug\net6.0\Tasks1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Control Work1 - Copy\obj\Debug\net6.0\Tasks1.AssemblyInfoInputs.cache
+F:\Control Work1 - Copy\obj\Debug\net6.0\Tasks1.AssemblyInfo.cs
+F:\Control Work1 - Copy\obj\Debug\net6.0\Tasks1.csproj.CoreCompileInputs.cache
+F:\Control Work1 - Copy\obj\Debug\net6.0\Tasks1.dll
+F:\Control Work1 - Copy\obj\Debug\net6.0\refint\Tasks1.dll
+F:\Control Work1 - Copy\obj\Debug\net6.0\Tasks1.pdb
+F:\Control Work1 - Copy\obj\Debug\net6.0\Tasks1.genruntimeconfig.cache
+F:\Control Work1 - Copy\obj\Debug\net6.0\ref\Tasks1.dll
