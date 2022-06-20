@@ -15,7 +15,7 @@ string PrintArray (string[] arr) // вывод массива на экран
     return printArr;
 }
 
-int SazeNewArray (string[] arr)
+int SazeNewArray (string[] arr)// подсчет размера выходного массива
 {   
     int i = 0;
     int count = 0;
